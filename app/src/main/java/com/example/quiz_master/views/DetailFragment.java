@@ -33,7 +33,9 @@ import java.util.List;
 
 public class DetailFragment extends Fragment {
 
-    private TextView title , difficulty , totalQuestions;
+    private TextView title;
+    private TextView difficulty;
+    private TextView totalQuestions;
     private Button startQuizBtn;
     private NavController navController;
     private int position;

@@ -1,7 +1,5 @@
 package com.example.quiz_master.views;
 
-
-
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;

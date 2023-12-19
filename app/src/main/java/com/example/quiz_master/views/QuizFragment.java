@@ -135,7 +135,6 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
                 timer = questionModels.get(i-1).getTimer();
                 answer = questionModels.get(i-1).getAnswer();
 
-                //todo set current que no, to que number tv
                 questionNumberTv.setText(String.valueOf(currentQueNo));
                 startTimer();
             }
