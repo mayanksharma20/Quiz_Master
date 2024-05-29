@@ -24,7 +24,7 @@ USERS OF SYSTEM<br/>
 ENTITY RELATIONSHIP DIAGRAM
 ![image](https://github.com/mayanksharma20/Quiz_Master/assets/47239249/510eefdb-3bd3-4aea-856f-9709f45df1b4)
 <br/>
-USER INTERFACE DESIGN AND REPORTS<br/>
+USER INTERFACE DESIGN<br/><br/><br/>
 ![image](https://github.com/mayanksharma20/Quiz_Master/assets/47239249/50cb52b3-a328-4c45-a17a-e00a95f49d8c)
 ![image](https://github.com/mayanksharma20/Quiz_Master/assets/47239249/b1bd3cc1-746a-4b49-8689-7ec3c13d0afc)
 ![image](https://github.com/mayanksharma20/Quiz_Master/assets/47239249/b0b72725-1ded-4ece-be92-37049a36f7b4)
